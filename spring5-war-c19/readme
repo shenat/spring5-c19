@@ -1,2 +1,2 @@
-该实例适用于：创建项目的时候选择打包方式为jar,但是最后打包时需要打包为war需要添加的内容
+该实例适用于：创建项目的时候选择打包方式为jar,但是最后打包时需要打包为war需要添加的内容(通过eclipse export的方式也需要)
 maven打包: 右击-run as maven build...  goal中填写package即可
